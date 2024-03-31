@@ -1,5 +1,5 @@
-import datetime 
-
+from scipy import interpolate
+import numpy as np 
 
 class seriesejercicio():
     tiempo = []
@@ -41,15 +41,7 @@ miserie = seriesejercicio()
 datos = miserie.leerdatos('oscilador.csv')       
 print(type(datos))
 
-print(miserie.tiempo)
-print(miserie.columnas)
 
-fichero = open('tiempo.txt','w')
-fichero.write(str(miserie.tiempo))
-fichero.close()
-del fichero
 
-fichero = open('columnas.txt','w')
-fichero.write(str(miserie.columnas))
-fichero.close()
-del fichero
+
+
