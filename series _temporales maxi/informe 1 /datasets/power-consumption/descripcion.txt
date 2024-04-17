@@ -48,5 +48,5 @@ Zona 3 Consumo de energía
 referencias:
 Impacto ambiental por consumo de energía eléctrica en los Data Centers
 https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-78902021000600034#B20
-
-http://asades.org.ar/revistaaverma/Evaluacion%20del%20consumo%20electrico%20en%20el%20sector%20residencial%20de%20mar%20del%20plata.%20Aspectos%20Economicos%20y%20ambientales.%20S.%20B.%20Jacob,%20J.%20L.%20Strack,%20J.%20C.%20Branda,%20G.%20J.%20Murcia,%20J.%20A.%20Suarez%20[2013%20-%20Tema%20%201].pdf
+https://www.divulgameteo.es/fotos/meteoroteca/Climatología-gas-electricidad.pdf
+https://es.weatherspark.com/y/32742/Clima-promedio-en-Marrakech-Marruecos-durante-todo-el-año
