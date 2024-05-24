@@ -38,11 +38,11 @@ Flujos difusos generales: "Flujo difuso" es un término general para describir f
 
 Flujos difusos
 
-Zona 1 Consumo de energía
+Zona 1 Consumo de energía quads
 
-Zona 2 Consumo de energía
+Zona 2 Consumo de energía smir
 
-Zona 3 Consumo de energía
+Zona 3 Consumo de energía Boussafou
 
 
 referencias:
